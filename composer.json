@@ -1,5 +1,5 @@
 {
-    "name": "sormagec/push-notifications-laravel",
+    "name": "sormagec/pusher-beam-laravel",
     "description": "A Pusher Beams bridge for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "pusher", "beams", "api", "push-notifications-php", "rest", "realtime", "trigger", "publish", "events"],
